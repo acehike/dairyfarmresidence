@@ -6,7 +6,7 @@ p.project-name {background:#444; opacity:0.9;}
  div.main img {cursor: zoom-in;}
 .agent-name, .nav-wrap, .client-title, p.client-content,   footer, .LinkBtn,.register-box { display: none; }
 .table-wrap, .map-info, .client-box {background:#eee !important;}
-.gallery-box, .available-box {padding:0 60px 0 60px;}
+.description-box, .available-box {padding:0 60px 0 60px;}
 .avenir-box,.showflat-box {padding: 15px 120px 15px 120px;}
  #Elevation img,  #SiteFloorPlan img {width: auto !important; align: center;}
  .plans-box[data-v-1b0577e4] img {height: auto !important;}
