@@ -1,5 +1,6 @@
 p.project-name {background:#444; opacity:0.9;}
 .content-box {background:#fff !important;}
+.van-col--4 {font-weight:600;}
  li, div.main { font-family: Arial, Helvetica, sans-serif !important;}
  div.main img {cursor: zoom-in;}
 .agent-name, .nav-wrap, .client-title, p.client-content,   footer, .LinkBtn,.register-box { display: none; }
