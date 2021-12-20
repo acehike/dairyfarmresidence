@@ -15,7 +15,7 @@ p.project-name {background:#444; opacity:0.9;}
  .facilities-box, .floor-plans-box, .site-plan-box, .gallery-box, .virtual-wrap, .elevation-chart-box, .virtual-box, .description-box {padding-top:95px; margin-top: -95px;}
 .themeEcoprop .content-box .main .showflat-box .showflat-bontent[data-v-1b0577e4] {font-weight:100 !important;}
  .themeEcoprop .content-box .main .floor-plans-box .floor-content .plans-box .el-image[data-v-1b0577e4] {width: 475px !important;}
-.themeEcoprop .content-box .main .floor-plans-box .floor-content .plans-box[data-v-1b0577e4] {max-height:5000px !important;}
+/* .themeEcoprop .content-box .main .floor-plans-box .floor-content .plans-box[data-v-1b0577e4] {max-height:5000px !important;} */
 
  @media screen and (max-width: 768px) {
  .themeEcoprop .content-box .main .client-box[data-v-1b0577e4],  .available-box , .avenir-box,.showflat-box {padding: 15px 15px 15px 15px;}
