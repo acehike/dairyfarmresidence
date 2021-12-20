@@ -30,6 +30,8 @@ p.project-name {background:#444; opacity:0.9;}
   
 /*  .themeEcoprop .content-box .main .floor-plans-box .floor-content .plans-box[data-v-1b0577e4] {overflow-y:visible;} */
   
+  .themeEcoprop .content-box .main .floor-plans-box .floor-content .plans-box .el-image[data-v-1b0577e4] {width: 475px !important;}
+  
  }
 
  @media screen and (min-width:512px) and (max-width: 768px) {
